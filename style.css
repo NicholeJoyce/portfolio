@@ -8,11 +8,13 @@ Syntax for CSS
 */
 
 * {
+    color: white;
     font-family: 'Roboto', sans-serif;
 }
 
 h1,
 p {
+    color: white;
     font-family: 'Montserrat', sans-serif;
 }
 
